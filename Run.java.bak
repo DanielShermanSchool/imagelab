@@ -24,11 +24,10 @@ import imagelab.ImageLab;
  * @version 1.8.2
  */
 public class Run {
-/**
-* Main method, runs ImageLab's main method.
-* Method creates ImageLab window.
-* @param args primary args parameter for java main methods
-*/
+	/**
+	* Main method, runs ImageLab's main method
+	* creates ImageLab window
+	*/
     private static void main(final String[] args) {
         ImageLab.main(args);
     }
