@@ -29,7 +29,7 @@ public class Run {
 * Method creates ImageLab window.
 * @param args primary args parameter for java main methods
 */
-    private static void main(final String[] args) {
+    public static void main(final String[] args) {
         ImageLab.main(args);
     }
 }
